@@ -77,27 +77,14 @@ Universiti Sultan Zainal Abidin (2023-2027) – **3.68 CGPA** (Latest)
 ---
 
 ## 🌐 Featured Projects
-
 | Project | Description | Tech Stack | Type |
-|---------|-------------|-----------|
+|---------|-------------|------------|------|
 | **Esti** | Calorie Tracking Application with AI recognition | Flutter · Firebase · YOLOv11 · TFLite | Mobile App |
-| **UniMarketPlace** | A commercial mobile platform developed with teammates for university students to engage with each other and sell items. | Flutter · Firebase · Android | [View Live](https://lemonman9103.github.io/personal-blog/) | Mobile App |
+| **UniMarketPlace** | A commercial mobile platform for university students to buy and sell items | Flutter · Firebase · Android | Mobile App |
 
-→ Check out all my repositories below! 👇
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LemonMan9103&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LemonMan9103&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-</div>
 
 ---
+
 
 ## 📈 Contribution Activity
 
