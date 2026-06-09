@@ -78,9 +78,10 @@ Universiti Sultan Zainal Abidin (2023-2027) – **3.68 CGPA** (Latest)
 
 ## 🌐 Featured Projects
 
-| Project | Description | Tech Stack | Link |
-|---------|-------------|-----------|------|
-| **Personal Blog Portfolio** | Modern portfolio website with responsive design and interactivity | HTML, CSS, JavaScript | [View Live](https://lemonman9103.github.io/personal-blog/) |
+| Project | Description | Tech Stack | Type |
+|---------|-------------|-----------|
+| **Esti** | Calorie Tracking Application with AI recognition | Flutter · Firebase · YOLOv11 · TFLite | Mobile App |
+| **UniMarketPlace** | A commercial mobile platform developed with teammates for university students to engage with each other and sell items. | Flutter · Firebase · Android | [View Live](https://lemonman9103.github.io/personal-blog/) | Mobile App |
 
 → Check out all my repositories below! 👇
 
@@ -120,15 +121,6 @@ Universiti Sultan Zainal Abidin (2023-2027) – **3.68 CGPA** (Latest)
 
 - 🇲🇾 **Malay:** Native
 - 🇬🇧 **English:** Professional
-
----
-
-<div align="center">
-
-
-**[View My Repositories](https://github.com/LemonMan9103?tab=repositories)**
-
-</div>
 
 ---
 
