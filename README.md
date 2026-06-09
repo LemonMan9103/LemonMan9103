@@ -1,4 +1,4 @@
-# 👋 Hi, I'm LemonMan9103
+# 👋 Hi, I'm Imaduddin
 
 **Third-Year Computer Science Student | Full-Stack Developer | Software Development Enthusiast**
 
@@ -17,10 +17,6 @@ Third-year Computer Science student with experience developing web and mobile ap
 **Bachelor of Computer Science (Software Development) with Honours**  
 Universiti Sultan Zainal Abidin (2023-2027) – **3.68 CGPA** (Latest)
 
-**Sijil Tinggi Pelajaran Malaysia (STPM)**  
-SMK Temerloh (2019) – 3.00 CGPA
-
----
 
 ## 💻 Tech Stack
 
@@ -112,8 +108,8 @@ SMK Temerloh (2019) – 3.00 CGPA
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:darkhaze203@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hzqimad03@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haziq-imaduddin-zainol-75938b398/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=github&logoColor=white)](https://lemonman9103.github.io/personal-blog/)
 
 </div>
@@ -127,19 +123,8 @@ SMK Temerloh (2019) – 3.00 CGPA
 
 ---
 
-## ⚡ Fun Facts
-
-- 🎮 I enjoy building games and interactive applications
-- 🌍 Open to collaborating on innovative projects
-- 💡 Passionate about emerging technologies and AI
-- 🔒 Interest in information security and cybersecurity
-- ☕ Coffee-driven developer
-
----
-
 <div align="center">
 
-⭐ If you find my work interesting, feel free to **star** my repositories!
 
 **[View My Repositories](https://github.com/LemonMan9103?tab=repositories)**
 
