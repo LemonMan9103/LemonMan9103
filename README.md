@@ -12,11 +12,6 @@ Third-year Computer Science student with experience developing web and mobile ap
 
 ---
 
-## 🎓 Education
-
-**Bachelor of Computer Science (Software Development) with Honours**  
-Universiti Sultan Zainal Abidin (2023-2027) – **3.68 CGPA** (Latest)
-
 
 ## 💻 Tech Stack
 
@@ -52,17 +47,6 @@ Universiti Sultan Zainal Abidin (2023-2027) – **3.68 CGPA** (Latest)
 
 - **Final Year Project (Esti)** - Calorie Tracking Application with AI recognition. Built using Flutter packages and Yolov11 model for classification.
 - **Software Development Workshop (UniMarketPlace)** – A commercial mobile platform developed with teammates for university students to engage with each other and sell items.
-
----
-
-## 🏆 Achievements
-
-**Dean Awards:**
-- SEM I 2023/2024 (GPA: 3.59)
-- SEM II 2023/2024 (GPA: 3.70)
-- SEM I 2024/2025 (GPA: 3.56)
-- SEM II 2024/2025 (GPA: 3.72)
-- SEM I 2025/2026 (GPA: 3.81)
 
 ---
 
